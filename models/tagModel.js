@@ -10,15 +10,7 @@ const tagSchema = new Schema(
   },
   { collection: "Tags" }
 );
-// const tagSchema = new Schema(
-//   {
-//     tags: {
-//       type: [String],
-//       required: true,
-//     },
-//   },
-//   { collection: "tag" }
-// );
+
 const Tag = model("Tag", tagSchema);
 
 module.exports = Tag;

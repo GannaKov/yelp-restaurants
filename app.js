@@ -7,9 +7,7 @@ const cors = require("cors");
 const app = express();
 app.use(cors());
 
-//app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
-//const path = require('path');
 
 app.use("/api/restaurants", restaurantRouter);
 app.use("/api/tags", tagRouter);
