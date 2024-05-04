@@ -1,6 +1,7 @@
 const express = require("express");
 
 const restaurantRouter = require("./routes/restaurantRouter");
+const tagRouter = require("./routes/tagRouter.js");
 //require('dotenv').config();
 const cors = require("cors");
 const app = express();
@@ -11,6 +12,7 @@ app.use(express.json());
 //const path = require('path');
 
 app.use("/api/restaurants", restaurantRouter);
+app.use("/api/tags", tagRouter);
 
 app.use((err, req, res, next) => {
   if (err.status === 404) {
