@@ -1,0 +1,202 @@
+[
+  {
+    "name": "The Coffee Bar",
+    "image_URL": "https://picsum.photos/seed/picsum/200/300",
+    "location": {
+      "address": "123 Brew Lane",
+      "city": "Coffeeville",
+      "state": "CA",
+      "zip_code": "90001"
+    },
+    "tags": ["Cafe", "Bakery"],
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": "r1",
+        "user_id": "u100",
+        "text": "Great atmosphere and wonderful coffee. Highly recommend the espresso!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Pizza Palace",
+    "image_URL": "https://picsum.photos/seed/pizza/200/300",
+    "location": {
+      "address": "456 Dough Street",
+      "city": "Pizza Town",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "tags": ["Pizza", "Italian"],
+    "rating": 4.2,
+    "reviews": [
+      {
+        "id": "r2",
+        "user_id": "u101",
+        "text": "Best pizza in town! Crispy crust and delicious toppings.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "name": "Sushi Spot",
+    "image_URL": "https://picsum.photos/seed/sushi/200/300",
+    "location": {
+      "address": "789 Sashimi Avenue",
+      "city": "Sushi City",
+      "state": "TX",
+      "zip_code": "77001"
+    },
+    "tags": ["Sushi", "Japanese"],
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": "r3",
+        "user_id": "u102",
+        "text": "Fresh and tasty sushi rolls! Great service too.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "name": "Taco Time",
+    "image_URL": "https://picsum.photos/seed/taco/200/300",
+    "location": {
+      "address": "101 Taco Street",
+      "city": "Taco Town",
+      "state": "AZ",
+      "zip_code": "85001"
+    },
+    "tags": ["Tacos", "Mexican"],
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": "r4",
+        "user_id": "u103",
+        "text": "Authentic tacos! Loved the carne asada.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "name": "Burger Bistro",
+    "image_URL": "https://picsum.photos/seed/burger/200/300",
+    "location": {
+      "address": "321 Patty Place",
+      "city": "Burger City",
+      "state": "IL",
+      "zip_code": "60001"
+    },
+    "tags": ["Burgers", "American"],
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": "r5",
+        "user_id": "u104",
+        "text": "Juicy burgers and crispy fries! A must-visit.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Pasta Paradise",
+    "image_URL": "https://picsum.photos/seed/pasta/200/300",
+    "location": {
+      "address": "555 Noodle Lane",
+      "city": "Pasta City",
+      "state": "FL",
+      "zip_code": "33001"
+    },
+    "tags": ["Pasta", "Italian"],
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": "r6",
+        "user_id": "u105",
+        "text": "Delicious pasta dishes! The carbonara was amazing.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "name": "Vegetarian Delight",
+    "image_URL": "https://picsum.photos/seed/vegetarian/200/300",
+    "location": {
+      "address": "777 Veggie Avenue",
+      "city": "Veggie Town",
+      "state": "WA",
+      "zip_code": "98001"
+    },
+    "tags": ["Vegetarian", "Healthy"],
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": "r7",
+        "user_id": "u106",
+        "text": "Fantastic vegetarian options! Loved the quinoa salad.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "name": "BBQ Joint",
+    "image_URL": "https://picsum.photos/seed/bbq/200/300",
+    "location": {
+      "address": "888 Grill Street",
+      "city": "BBQ City",
+      "state": "NC",
+      "zip_code": "27001"
+    },
+    "tags": ["BBQ", "Southern"],
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": "r8",
+        "user_id": "u107",
+        "text": "Mouthwatering BBQ! The ribs were tender and flavorful.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "name": "Seafood Shack",
+    "image_URL": "https://picsum.photos/seed/seafood/200/300",
+    "location": {
+      "address": "999 Fisherman's Wharf",
+      "city": "Seafood City",
+      "state": "OR",
+      "zip_code": "97001"
+    },
+    "tags": ["Seafood", "Fresh"],
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": "r9",
+        "user_id": "u108",
+        "text": "Fresh seafood! The grilled salmon was perfect.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "name": "Ethiopian Eats",
+    "image_URL": "https://picsum.photos/seed/ethiopian/200/300",
+    "location": {
+      "address": "234 Injera Street",
+      "city": "Ethiopian City",
+      "state": "GA",
+      "zip_code": "30001"
+    },
+    "tags": ["Ethiopian", "African"],
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": "r10",
+        "user_id": "u109",
+        "text": "Authentic Ethiopian cuisine! Loved the injera and doro wat.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
